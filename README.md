@@ -559,6 +559,6 @@ print("Mahalle Adları Katmanı başarıyla oluşturuldu ve haritaya eklendi.")
 
 
 
-
+Önemli NOT : QGIS density sonuçlarını output folder'ı içerisinde bulabilirsiniz.
 
 
